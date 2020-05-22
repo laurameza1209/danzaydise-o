@@ -1,0 +1,179 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="danzaydiseño.com" resolutions="1x" timestamp="1590117679412">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="vestuario.css" crc="4140016329" ref="vestuario"/>
+    <file name="regi_n.css" crc="518144706" ref="región"/>
+    <file name="accesorios.css" crc="53207825" ref="accesorios"/>
+    <file name="andina.css" crc="4193191577" ref="andina"/>
+    <file name="cumbia.css" crc="3945874352" ref="cumbia"/>
+    <file name="orinoqu_a.css" crc="4193191577" ref="orinoquía"/>
+    <file name="pac_fico.css" crc="4193191577" ref="pacífico"/>
+    <file name="insular.css" crc="4193191577" ref="insular"/>
+    <file name="index.css" crc="28454927" ref="index"/>
+    <file name="amazon_a.css" crc="4193191577" ref="amazonía"/>
+    <file name="pasos.css" crc="4193191577" ref="pasos"/>
+  </folder>
+  <folder name="assets">
+    <file name="origen-de-la-cumbia_1.mp4" crc="444000621" seo="true" mt="1590014508000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:región:cumbia:amazonía:andina:insular:orinoquía:pacífico:vestuario:accesorios:pasos"/>
+    <file name="museutils.js" crc="340535759" ref="index:región:cumbia:amazonía:andina:insular:orinoquía:pacífico:vestuario:accesorios:pasos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:región:cumbia:amazonía:andina:insular:orinoquía:pacífico:vestuario:accesorios:pasos"/>
+    <file name="museconfig.js" crc="310584261" ref="index:región:cumbia:amazonía:andina:insular:orinoquía:pacífico:vestuario:accesorios:pasos"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:región:cumbia:amazonía:andina:insular:orinoquía:pacífico:vestuario:accesorios:pasos"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:región:cumbia:amazonía:andina:insular:orinoquía:pacífico:vestuario:accesorios:pasos"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="región:cumbia:accesorios:vestuario"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="región:cumbia:accesorios:vestuario"/>
+    <file name="html5shiv.js" crc="4241844378" ref="región:cumbia:amazonía:andina:insular:orinoquía:pacífico:vestuario:accesorios:pasos"/>
+  </folder>
+  <folder name="images">
+    <file name="bailarina-03.png" crc="356143254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u268-4.png" crc="4043278498" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:región:cumbia:accesorios:vestuario"/>
+    <file name="u104.png" crc="3905017102" ref="index"/>
+    <file name="u104-r.png" crc="3905017102" ref="index"/>
+    <file name="u111-4.png" crc="4233608653" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u418.png" crc="4006128825" ref="index"/>
+    <file name="u418-r.png" crc="4006128825" ref="index"/>
+    <file name="u464.png" crc="4091892170" ref="index"/>
+    <file name="u464-r.png" crc="4091892170" ref="index"/>
+    <file name="u490-4.png" crc="4181279741" ref="index"/>
+    <file name="u424.png" crc="388730803" ref="index"/>
+    <file name="u424-r.png" crc="388730803" ref="index"/>
+    <file name="u430.png" crc="4264919866" ref="index"/>
+    <file name="u430-r.png" crc="4264919866" ref="index"/>
+    <file name="u470.png" crc="4220986315" ref="index"/>
+    <file name="u470-r.png" crc="4220986315" ref="index"/>
+    <file name="u476.png" crc="3893698044" ref="index"/>
+    <file name="u476-r.png" crc="3893698044" ref="index"/>
+    <file name="propuesta vid interactivo-03.png" crc="38324237" seo="true" ref="región">
+      <caption webpage="región" alt=""/>
+    </file>
+    <file name="u537-4.png" crc="105260726" ref="región"/>
+    <file name="u540-4.png" crc="39830878" ref="región"/>
+    <file name="u544.png" crc="347862422" ref="región"/>
+    <file name="u544-r.png" crc="4210186907" ref="región"/>
+    <file name="u550.png" crc="160545190" ref="región"/>
+    <file name="u550-r.png" crc="4136245643" ref="región"/>
+    <file name="u556.png" crc="4013187367" ref="región"/>
+    <file name="u556-r.png" crc="4063768227" ref="región"/>
+    <file name="u562.png" crc="3910661043" ref="región"/>
+    <file name="u562-r.png" crc="3906190469" ref="región"/>
+    <file name="u568.png" crc="503476491" ref="región"/>
+    <file name="u568-r.png" crc="3940709074" ref="región"/>
+    <file name="u574.png" crc="272100572" ref="región"/>
+    <file name="u574-r.png" crc="4034615513" ref="región"/>
+    <file name="u593-4.png" crc="3956553062" ref="región"/>
+    <file name="u596-4.png" crc="260074639" ref="región"/>
+    <file name="u599-4.png" crc="280395329" ref="región"/>
+    <file name="u1450.png" crc="4037388897" ref="región"/>
+    <file name="u1450-a.png" crc="4208200395" ref="región"/>
+    <file name="fondo-02.png" crc="3842825193" ref="región:cumbia:accesorios:vestuario">
+      <caption webpage="vestuario" alt=""/>
+      <caption webpage="cumbia" alt=""/>
+      <caption webpage="región" alt=""/>
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="propuesta vid interactivo-03345x340.png" crc="72364254" seo="true" ref="cumbia">
+      <caption webpage="cumbia" alt=""/>
+    </file>
+    <file name="u1008-4.png" crc="290436468" ref="cumbia"/>
+    <file name="u1011-4.png" crc="37812694" ref="cumbia"/>
+    <file name="u1014-4.png" crc="4199520805" ref="cumbia"/>
+    <file name="u1680.png" crc="4214490465" ref="cumbia"/>
+    <file name="u1680-a.png" crc="4192113260" ref="cumbia"/>
+    <file name="u1962.png" crc="492375913" ref="cumbia"/>
+    <file name="u1962-a.png" crc="4227926660" ref="cumbia"/>
+    <file name="u1920.png" crc="4088878494" ref="cumbia"/>
+    <file name="u1920-a.png" crc="3884536804" ref="cumbia"/>
+    <file name="u2004.png" crc="158939217" ref="cumbia"/>
+    <file name="u2004-a.png" crc="3875607902" ref="cumbia"/>
+    <file name="u1024-4.png" crc="488236693" ref="cumbia"/>
+    <file name="u1055-4.png" crc="3956553062" ref="cumbia"/>
+    <file name="u1056-4.png" crc="260074639" ref="cumbia"/>
+    <file name="u1057-4.png" crc="280395329" ref="cumbia"/>
+    <file name="u2658-4.png" crc="197136964" ref="accesorios"/>
+    <file name="u2557.png" crc="4214490465" ref="accesorios"/>
+    <file name="u2557-a.png" crc="4192113260" ref="accesorios"/>
+    <file name="u2546.png" crc="492375913" ref="accesorios"/>
+    <file name="u2546-a.png" crc="4227926660" ref="accesorios"/>
+    <file name="u2549.png" crc="3854005171" ref="accesorios"/>
+    <file name="u2549-a.png" crc="4242039651" ref="accesorios"/>
+    <file name="u2566.png" crc="158939217" ref="accesorios"/>
+    <file name="u2566-a.png" crc="3875607902" ref="accesorios"/>
+    <file name="bullerengue.jpg" crc="396899242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zayuco.jpg" crc="4017045726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="currulao.jpg" crc="49790631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sombrero y flores.png" crc="262367709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3272.png" crc="473441325" ref="región"/>
+    <file name="u3272-a.png" crc="394136219" ref="región"/>
+    <file name="u3300.png" crc="397625547" ref="región"/>
+    <file name="u3300-a.png" crc="4234767103" ref="región"/>
+    <file name="u3329.png" crc="3858090852" ref="región"/>
+    <file name="u3329-a.png" crc="3905128164" ref="región"/>
+    <file name="u3357.png" crc="4181944830" ref="región"/>
+    <file name="u3357-a.png" crc="4152804451" ref="región"/>
+    <file name="u3417.png" crc="4017681819" ref="región"/>
+    <file name="u3417-a.png" crc="3816858310" ref="región"/>
+    <file name="u2973.png" crc="4244063451" ref="cumbia"/>
+    <file name="u2973-a.png" crc="530706904" ref="cumbia"/>
+    <file name="velas y apargats.png" crc="371377949" seo="true" ref="cumbia">
+      <caption webpage="cumbia" alt=""/>
+    </file>
+    <file name="u3064-4.png" crc="3787065433" ref="vestuario"/>
+    <file name="u3054.png" crc="4214490465" ref="vestuario"/>
+    <file name="u3054-a.png" crc="4192113260" ref="vestuario"/>
+    <file name="u3038.png" crc="492375913" ref="vestuario"/>
+    <file name="u3038-a.png" crc="4227926660" ref="vestuario"/>
+    <file name="u3046.png" crc="3854005171" ref="vestuario"/>
+    <file name="u3046-a.png" crc="4242039651" ref="vestuario"/>
+    <file name="u3061.png" crc="4244063451" ref="vestuario"/>
+    <file name="u3061-a.png" crc="530706904" ref="vestuario"/>
+    <file name="u3166.png" crc="3992783864" ref="vestuario"/>
+    <file name="u3166-a.png" crc="4243878798" ref="vestuario"/>
+    <file name="u3187.png" crc="4244063451" ref="accesorios"/>
+    <file name="u3187-a.png" crc="530706904" ref="accesorios"/>
+    <file name="u3230-4.png" crc="4179242119" ref="accesorios"/>
+    <file name="velas.png" crc="4269394675" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="u3250-7.png" crc="390184104" ref="accesorios"/>
+    <file name="u3478-4.png" crc="4123307976" ref="accesorios"/>
+    <file name="u3513-4.png" crc="4156788503" ref="accesorios"/>
+    <file name="u3492-5.png" crc="9667484" ref="accesorios"/>
+    <file name="u3516-5.png" crc="201488303" ref="accesorios"/>
+    <file name="viuda de machete.png" crc="442021108" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="mochila.png" crc="140437352" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4092255505" seo="true" mt="1590103060325" redirect="true"/>
+  <file name="región.html" crc="3774366723" seo="true" mt="1590117677361" redirect="true"/>
+  <file name="cumbia.html" crc="72780665" seo="true" mt="1590113915649" redirect="true"/>
+  <file name="amazonía.html" crc="4129384188" seo="true" mt="1590026271527" redirect="false"/>
+  <file name="andina.html" crc="519978888" seo="true" mt="1590026278531" redirect="false"/>
+  <file name="insular.html" crc="4050890772" seo="true" mt="1590026287976" redirect="false"/>
+  <file name="orinoquía.html" crc="253376722" seo="true" mt="1590026299047" redirect="false"/>
+  <file name="pacífico.html" crc="3769046046" seo="true" mt="1590026308562" redirect="false"/>
+  <file name="vestuario.html" crc="3852259980" seo="true" mt="1590111495185" redirect="true"/>
+  <file name="accesorios.html" crc="3992372429" seo="true" mt="1590115921642" redirect="true"/>
+  <file name="pasos.html" crc="383972597" seo="true" mt="1590111363227" redirect="false"/>
+</manifest>
